@@ -16,7 +16,7 @@
 "helye": "0", "gondozo": "0"}
 ],
 
-"lakhelyek":[
+"lakhely":[
     {"id":0,"lakhely":"Kecskesimogató"},
     {"id":1,"lakhely":"Elefántház"},
     {"id":2,"lakhely":"Afrika sétány"},
@@ -26,7 +26,7 @@
     {"id":6,"lakhely":"Sarkvilág"},
     {"id":7,"lakhely":"Madagaszkár-kaland"}
 ],
-"gondozok":[
+"gondozo":[
     {"id":0,"nev":"Ács Miklós"},
     {"id":1,"nev":"Kukorica János"},
     {"id":2,"nev":"Gáspár Dénes"},

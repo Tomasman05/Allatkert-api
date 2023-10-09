@@ -49,20 +49,12 @@
       "gondozo": "0"
     },
     {
-      "id": 6,
-      "nev": "Bíbor",
-      "faj": "Bata-kutu",
-      "erkezes": "2018-04-09",
-      "helye": "0",
-      "gondozo": "0"
-    },
-    {
-      "nev": "asd",
-      "faj": "asdasd",
-      "erkezes": "2023-10-05",
+      "nev": "Zsolti",
+      "faj": "Varangyos béka",
+      "erkezes": "2023-10-09",
       "gondozo": "0",
-      "helye": "1",
-      "id": 7
+      "helye": "0",
+      "id": 6
     }
   ],
   "lakhelyek": [
