@@ -5,8 +5,8 @@
       "nev": "Ragyás",
       "faj": "Nílusi krokodil",
       "erkezes": "2019-05-16",
-      "helye": "0",
-      "gondozo": "0"
+      "helye": "4",
+      "gondozo": "1"
     },
     {
       "id": 1,
@@ -37,8 +37,8 @@
       "nev": "Dumber",
       "faj": "Indiai elefánt",
       "erkezes": "2020-01-13",
-      "helye": "0",
-      "gondozo": "0"
+      "helye": "1",
+      "gondozo": "2"
     },
     {
       "id": 5,
@@ -51,10 +51,10 @@
     {
       "nev": "Zsolti",
       "faj": "Varangyos béka",
-      "erkezes": "2023-10-09",
-      "gondozo": "0",
-      "helye": "0",
-      "id": 6
+      "erkezes": "2023-09-28",
+      "helye": "4",
+      "gondozo": "4",
+      "id": 7
     }
   ],
   "lakhelyek": [
